@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fd893bec8666a43bfb4b7c2b79d35da5, type: 3}
+  m_Name: Pistol92
+  m_EditorClassIdentifier: 
+  name: Pistol92
+  damage: 18
+  max_distance: 150
+  ammo_current: 14
+  magazine_size: 14
+  firerate: 45
+  reload_time: 0.8
+  is_reloading: 0
